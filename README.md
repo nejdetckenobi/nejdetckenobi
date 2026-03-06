@@ -4,11 +4,11 @@ I'm a software developer who enjoys building reliable systems, exploring low-lev
 
 ## 👨‍💻 About Me
 
-* Interested in backend systems, performance, and clean architecture
-* Comfortable working in Linux environments and generally feel much more productive there than in Windows
-* Enthusiastic about Free Software and the open-source ecosystem
-* Constantly experimenting with new tools and technologies
-* Focused on writing maintainable and efficient code
+Software developer focused primarily on backend and systems engineering. I enjoy working close to the system layer, experimenting with different programming languages, and building reliable infrastructure-oriented software.
+
+* Strong preference for Linux-based development environments
+* Interested in Free Software and open ecosystems
+* Regularly exploring new languages, infrastructure tools, and distributed system patterns
 
 ## 🚀 Tech Stack
 
@@ -26,6 +26,7 @@ I'm a software developer who enjoys building reliable systems, exploring low-lev
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge\&logo=apacheairflow\&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge\&logo=nginx\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 ![LXC](https://img.shields.io/badge/LXC-333333?style=for-the-badge\&logo=linuxcontainers\&logoColor=white)
@@ -52,20 +53,19 @@ I'm a software developer who enjoys building reliable systems, exploring low-lev
 ![REST API](https://img.shields.io/badge/REST-API-005571?style=for-the-badge)
 ![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge\&logo=grpc\&logoColor=white)
 
-## 🔧 Areas of Interest
+## 🔧 Focus Areas
 
-* Backend development
-* Systems programming
-* Developer tools
-* Performance optimization
-* Open source
-* Cloud‑native infrastructure
+* Backend and service development
+* Systems programming and performance-oriented software
+* Distributed systems and messaging
+* Containerized and cloud‑native infrastructure
+* Developer tooling and automation
 
 ## 🌱 Currently Exploring
 
-* Advanced Rust patterns and ecosystem tools
-* High-performance backend architectures
-* Cross-language system design
+* Advanced Rust ecosystem patterns
+* High‑performance service architectures
+* AI tooling with local models and vector databases
 
 ## 🤝 Open to Collaboration
 
