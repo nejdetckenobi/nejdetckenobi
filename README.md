@@ -77,6 +77,10 @@ You can schedule a meeting with me here:
 
 [cal.com/nejdetckenobi](https://cal.com/nejdetckenobi)
 
+LinkedIn:
+
+[linkedin.com/in/nejdet-cagdas-yucesoy](https://www.linkedin.com/in/nejdet-cagdas-yucesoy/)
+
 ---
 
 Feel free to explore my repositories and projects.
